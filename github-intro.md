@@ -1,3 +1,9 @@
+Git Workflow 
+- informational commands; ls, pwd, git status 
+- git add <file name>
+- git commit -m "your message about changes" 
+- git push origin <branch name>
+
 Scavenger Hunt
 - where can you find your classroom Google Drive? on the 2022c Slack channel 
 - what is currrently in your Google Drive? daily schedules, Github pdf, and lecture videos 
