@@ -1,0 +1,1188 @@
+  [1m[35m (306.7ms)[0m  [1m[35mCREATE DATABASE "charlie_app_development" ENCODING = 'unicode'[0m
+  [1m[35m (141.8ms)[0m  [1m[35mCREATE DATABASE "charlie_app_test" ENCODING = 'unicode'[0m
+Started GET "/" for ::1 at 2022-06-14 14:33:58 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.4ms | Allocations: 749)
+Completed 200 OK in 41ms (Views: 17.6ms | ActiveRecord: 0.0ms | Allocations: 7087)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:44:57 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 642)
+Completed 200 OK in 22ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 5806)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:01 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 372)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 1249)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:02 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 298)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:02 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:02 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 296)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:03 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:03 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:03 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:03 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:03 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:04 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:04 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/" for ::1 at 2022-06-14 14:47:04 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 291)
+
+
+Started GET "/big_ben" for ::1 at 2022-06-14 14:47:13 -0700
+Processing by CharlieController#big_ben as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 10)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 961)
+
+
+Started GET "/big_ben" for ::1 at 2022-06-14 14:49:57 -0700
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:3:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/home" for ::1 at 2022-06-14 14:50:18 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 14:53:20 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/" for ::1 at 2022-06-14 14:53:26 -0700
+  
+AbstractController::ActionNotFound (The action 'home' could not be found for CharlieController):
+  
+actionpack (7.0.3) lib/abstract_controller/base.rb:146:in `process'
+actionview (7.0.3) lib/action_view/rendering.rb:39:in `process'
+actionpack (7.0.3) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.3) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.3.1) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3.1) lib/rack/etag.rb:27:in `call'
+rack (2.2.3.1) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3.1) lib/rack/head.rb:12:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/cookies.rb:697:in `call'
+activerecord (7.0.3) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.3) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.3) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `block in tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:38:in `tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `tagged'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3.1) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3.1) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/server_timing.rb:20:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.3.1) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.3) lib/rails/engine.rb:530:in `call'
+puma (5.6.4) lib/puma/configuration.rb:252:in `call'
+puma (5.6.4) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.4) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.4) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.4) lib/puma/server.rb:441:in `process_client'
+puma (5.6.4) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for ::1 at 2022-06-14 14:53:29 -0700
+  
+AbstractController::ActionNotFound (The action 'home' could not be found for CharlieController):
+  
+actionpack (7.0.3) lib/abstract_controller/base.rb:146:in `process'
+actionview (7.0.3) lib/action_view/rendering.rb:39:in `process'
+actionpack (7.0.3) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.3) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.3.1) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3.1) lib/rack/etag.rb:27:in `call'
+rack (2.2.3.1) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3.1) lib/rack/head.rb:12:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/cookies.rb:697:in `call'
+activerecord (7.0.3) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.3) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.3) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `block in tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:38:in `tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `tagged'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3.1) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3.1) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/server_timing.rb:20:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.3.1) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.3) lib/rails/engine.rb:530:in `call'
+puma (5.6.4) lib/puma/configuration.rb:252:in `call'
+puma (5.6.4) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.4) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.4) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.4) lib/puma/server.rb:441:in `process_client'
+puma (5.6.4) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for ::1 at 2022-06-14 14:53:30 -0700
+  
+AbstractController::ActionNotFound (The action 'home' could not be found for CharlieController):
+  
+actionpack (7.0.3) lib/abstract_controller/base.rb:146:in `process'
+actionview (7.0.3) lib/action_view/rendering.rb:39:in `process'
+actionpack (7.0.3) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.3) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.3.1) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3.1) lib/rack/etag.rb:27:in `call'
+rack (2.2.3.1) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3.1) lib/rack/head.rb:12:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/cookies.rb:697:in `call'
+activerecord (7.0.3) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.3) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.3) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `block in tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:38:in `tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `tagged'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3.1) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3.1) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/server_timing.rb:20:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.3.1) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.3) lib/rails/engine.rb:530:in `call'
+puma (5.6.4) lib/puma/configuration.rb:252:in `call'
+puma (5.6.4) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.4) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.4) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.4) lib/puma/server.rb:441:in `process_client'
+puma (5.6.4) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for ::1 at 2022-06-14 14:55:07 -0700
+Processing by CharlieController#home as HTML
+Completed 406 Not Acceptable in 1ms (ActiveRecord: 0.0ms | Allocations: 622)
+
+
+  
+ActionController::MissingExactTemplate (CharlieController#home is missing a template for request formats: text/html):
+  
+actionpack (7.0.3) lib/action_controller/metal/implicit_render.rb:45:in `default_render'
+actionpack (7.0.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+<internal:kernel>:90:in `tap'
+actionpack (7.0.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (7.0.3) lib/abstract_controller/base.rb:215:in `process_action'
+actionpack (7.0.3) lib/action_controller/metal/rendering.rb:53:in `process_action'
+actionpack (7.0.3) lib/abstract_controller/callbacks.rb:234:in `block in process_action'
+activesupport (7.0.3) lib/active_support/callbacks.rb:118:in `block in run_callbacks'
+actiontext (7.0.3) lib/action_text/rendering.rb:20:in `with_renderer'
+actiontext (7.0.3) lib/action_text/engine.rb:69:in `block (4 levels) in <class:Engine>'
+activesupport (7.0.3) lib/active_support/callbacks.rb:127:in `instance_exec'
+activesupport (7.0.3) lib/active_support/callbacks.rb:127:in `block in run_callbacks'
+activesupport (7.0.3) lib/active_support/callbacks.rb:138:in `run_callbacks'
+actionpack (7.0.3) lib/abstract_controller/callbacks.rb:233:in `process_action'
+actionpack (7.0.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (7.0.3) lib/action_controller/metal/instrumentation.rb:67:in `block in process_action'
+activesupport (7.0.3) lib/active_support/notifications.rb:206:in `block in instrument'
+activesupport (7.0.3) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (7.0.3) lib/active_support/notifications.rb:206:in `instrument'
+actionpack (7.0.3) lib/action_controller/metal/instrumentation.rb:66:in `process_action'
+actionpack (7.0.3) lib/action_controller/metal/params_wrapper.rb:259:in `process_action'
+activerecord (7.0.3) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (7.0.3) lib/abstract_controller/base.rb:151:in `process'
+actionview (7.0.3) lib/action_view/rendering.rb:39:in `process'
+actionpack (7.0.3) lib/action_controller/metal.rb:188:in `dispatch'
+actionpack (7.0.3) lib/action_controller/metal.rb:251:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (7.0.3) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (7.0.3) lib/action_dispatch/routing/route_set.rb:852:in `call'
+rack (2.2.3.1) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3.1) lib/rack/etag.rb:27:in `call'
+rack (2.2.3.1) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3.1) lib/rack/head.rb:12:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/permissions_policy.rb:38:in `call'
+actionpack (7.0.3) lib/action_dispatch/http/content_security_policy.rb:36:in `call'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3.1) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/cookies.rb:697:in `call'
+activerecord (7.0.3) lib/active_record/migration.rb:603:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (7.0.3) lib/active_support/callbacks.rb:99:in `run_callbacks'
+actionpack (7.0.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/actionable_exceptions.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/debug_exceptions.rb:28:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+railties (7.0.3) lib/rails/rack/logger.rb:40:in `call_app'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `block in call'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `block in tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:38:in `tagged'
+activesupport (7.0.3) lib/active_support/tagged_logging.rb:114:in `tagged'
+railties (7.0.3) lib/rails/rack/logger.rb:25:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3.1) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3.1) lib/rack/runtime.rb:22:in `call'
+activesupport (7.0.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/server_timing.rb:20:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/static.rb:23:in `call'
+rack (2.2.3.1) lib/rack/sendfile.rb:110:in `call'
+actionpack (7.0.3) lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+railties (7.0.3) lib/rails/engine.rb:530:in `call'
+puma (5.6.4) lib/puma/configuration.rb:252:in `call'
+puma (5.6.4) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.4) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.4) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.4) lib/puma/server.rb:441:in `process_client'
+puma (5.6.4) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/home" for ::1 at 2022-06-14 14:55:13 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 14:55:42 -0700
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:3:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/home" for ::1 at 2022-06-14 14:55:53 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:02:05 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:02:06 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:04:45 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:04:46 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:04:47 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:06:04 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:06:05 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/" for ::1 at 2022-06-14 15:06:08 -0700
+  
+ActionController::RoutingError (uninitialized constant BigBenController):
+  
+Started GET "/" for ::1 at 2022-06-14 15:08:21 -0700
+  
+ActionController::RoutingError (uninitialized constant BigbenController):
+  
+Started GET "/" for ::1 at 2022-06-14 15:08:23 -0700
+  
+ActionController::RoutingError (uninitialized constant BigbenController):
+  
+Started GET "/" for ::1 at 2022-06-14 15:08:32 -0700
+  
+ActionController::RoutingError (uninitialized constant BigBenController):
+  
+Started GET "/" for ::1 at 2022-06-14 15:08:33 -0700
+  
+ActionController::RoutingError (uninitialized constant BigBenController):
+  
+Started GET "/big_ben" for ::1 at 2022-06-14 15:10:14 -0700
+Processing by CharlieController#big_ben as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 3)
+Completed 200 OK in 5ms (Views: 3.4ms | Allocations: 707)
+
+
+Started GET "/big_ben" for ::1 at 2022-06-14 15:14:32 -0700
+Processing by CharlieController#big_ben as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 687)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:14:37 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 371)
+Completed 200 OK in 7ms (Views: 4.6ms | Allocations: 1172)
+
+
+Started GET "/home" for ::1 at 2022-06-14 15:14:41 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:15:14 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:15:55 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:15:56 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:15:57 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:12 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:14 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/big_ben" for ::1 at 2022-06-14 15:17:19 -0700
+Processing by CharlieController#big_ben as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 3ms (Views: 1.9ms | Allocations: 707)
+
+
+Started GET "/home" for ::1 at 2022-06-14 15:17:31 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:55 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:56 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:56 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:56 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:57 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:57 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/home" for ::1 at 2022-06-14 15:17:57 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/charlie" for ::1 at 2022-06-14 15:18:13 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/charlie"):
+  
+Started GET "/team_members" for ::1 at 2022-06-14 15:23:03 -0700
+Processing by CharlieController#team_members as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 4ms (Views: 2.3ms | Allocations: 689)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:25:10 -0700
+Processing by CharlieController#frank as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 689)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:26:03 -0700
+Processing by CharlieController#mary as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 3)
+Completed 200 OK in 3ms (Views: 1.7ms | Allocations: 687)
+
+
+Started GET "/home" for ::1 at 2022-06-14 15:31:21 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/" for ::1 at 2022-06-14 15:32:57 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1022.2ms | Allocations: 94722)
+Completed 200 OK in 1028ms (Views: 1024.8ms | Allocations: 95722)
+
+
+Started GET "/home" for ::1 at 2022-06-14 15:33:36 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/" for ::1 at 2022-06-14 15:33:43 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 9.6ms | Allocations: 2445)
+Completed 200 OK in 13ms (Views: 11.1ms | Allocations: 2760)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:36:08 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 223)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 2926)
+Completed 200 OK in 17ms (Views: 15.2ms | Allocations: 3951)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:36:47 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 25.9ms | Allocations: 2466)
+Completed 200 OK in 28ms (Views: 27.0ms | Allocations: 2782)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:36:48 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 218)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 2923)
+Completed 200 OK in 19ms (Views: 17.0ms | Allocations: 3948)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:36:55 -0700
+Processing by CharlieController#mary as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 242)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:36:55 -0700
+Processing by CharlieController#mary as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.2ms | Allocations: 238)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:37:00 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2466)
+Completed 200 OK in 6ms (Views: 5.3ms | Allocations: 2781)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:37:02 -0700
+Processing by CharlieController#frank as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 242)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:37:02 -0700
+Processing by CharlieController#frank as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 239)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:37:06 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 2464)
+Completed 200 OK in 7ms (Views: 5.5ms | Allocations: 2779)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:43:02 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 220)
+  Rendered layout layouts/application.html.erb (Duration: 52.7ms | Allocations: 14220)
+Completed 200 OK in 56ms (Views: 54.8ms | Allocations: 15276)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:43:02 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 12.5ms | Allocations: 2460)
+Completed 200 OK in 14ms (Views: 13.2ms | Allocations: 2775)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:43:04 -0700
+Processing by CharlieController#frank as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 242)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:43:04 -0700
+Processing by CharlieController#frank as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 240)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:43:52 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 65)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 13932)
+Completed 200 OK in 20ms (Views: 19.1ms | Allocations: 14698)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:43:54 -0700
+Processing by CharlieController#frank as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/frank.html.erb within layouts/application
+  Rendered charlie/frank.html.erb within layouts/application (Duration: 0.9ms | Allocations: 182)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 2596)
+Completed 200 OK in 9ms (Views: 7.5ms | Allocations: 2971)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:45:09 -0700
+Processing by CharlieController#frank as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/frank.html.erb within layouts/application
+  Rendered charlie/frank.html.erb within layouts/application (Duration: 1.2ms | Allocations: 190)
+  Rendered layout layouts/application.html.erb (Duration: 11.0ms | Allocations: 2903)
+Completed 200 OK in 17ms (Views: 16.0ms | Allocations: 3928)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:45:20 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 206)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 2612)
+Completed 200 OK in 9ms (Views: 7.6ms | Allocations: 2987)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:45:21 -0700
+Processing by CharlieController#mary as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 241)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:45:21 -0700
+Processing by CharlieController#mary as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 238)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:46:32 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 220)
+  Rendered layout layouts/application.html.erb (Duration: 20.5ms | Allocations: 14214)
+Completed 200 OK in 24ms (Views: 22.6ms | Allocations: 15271)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:46:34 -0700
+Processing by CharlieController#mary as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/mary.html.erb within layouts/application
+  Rendered charlie/mary.html.erb within layouts/application (Duration: 0.7ms | Allocations: 177)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 2585)
+Completed 200 OK in 8ms (Views: 6.9ms | Allocations: 2960)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:46:53 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.0ms | Allocations: 2472)
+Completed 200 OK in 8ms (Views: 6.7ms | Allocations: 2790)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:47:37 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 1.0ms | Allocations: 219)
+  Rendered layout layouts/application.html.erb (Duration: 8.6ms | Allocations: 2910)
+Completed 200 OK in 12ms (Views: 11.3ms | Allocations: 3935)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:47:38 -0700
+Processing by CharlieController#mary as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/mary.html.erb within layouts/application
+  Rendered charlie/mary.html.erb within layouts/application (Duration: 0.9ms | Allocations: 165)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 2579)
+Completed 200 OK in 9ms (Views: 7.4ms | Allocations: 2954)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:47:40 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.0ms | Allocations: 2468)
+Completed 200 OK in 8ms (Views: 6.8ms | Allocations: 2786)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 15:47:41 -0700
+Processing by CharlieController#mary as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/mary.html.erb within layouts/application
+  Rendered charlie/mary.html.erb within layouts/application (Duration: 0.2ms | Allocations: 34)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 2442)
+Completed 200 OK in 8ms (Views: 6.8ms | Allocations: 2760)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:47:42 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 2460)
+Completed 200 OK in 10ms (Views: 9.0ms | Allocations: 2778)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:47:43 -0700
+Processing by CharlieController#frank as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/frank.html.erb within layouts/application
+  Rendered charlie/frank.html.erb within layouts/application (Duration: 0.9ms | Allocations: 176)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 2586)
+Completed 200 OK in 7ms (Views: 5.8ms | Allocations: 2960)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:47:44 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 2466)
+Completed 200 OK in 9ms (Views: 7.7ms | Allocations: 2784)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:55:24 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 222)
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 14331)
+Completed 200 OK in 22ms (Views: 20.8ms | Allocations: 15389)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:55:24 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2474)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 2789)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:55:25 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 2461)
+Completed 200 OK in 7ms (Views: 5.9ms | Allocations: 2776)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:55:25 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 2458)
+Completed 200 OK in 9ms (Views: 7.8ms | Allocations: 2773)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:23 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 65)
+  Rendered layout layouts/application.html.erb (Duration: 20.8ms | Allocations: 13925)
+Completed 200 OK in 24ms (Views: 22.7ms | Allocations: 14692)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:24 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 2470)
+Completed 200 OK in 7ms (Views: 6.2ms | Allocations: 2785)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:24 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 2468)
+Completed 200 OK in 8ms (Views: 6.9ms | Allocations: 2783)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:25 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 2466)
+Completed 200 OK in 7ms (Views: 6.1ms | Allocations: 2781)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:25 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2487)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 2802)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:25 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 5.5ms | Allocations: 2462)
+Completed 200 OK in 8ms (Views: 6.8ms | Allocations: 2778)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:26 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 2458)
+Completed 200 OK in 6ms (Views: 5.3ms | Allocations: 2773)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:26 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2472)
+Completed 200 OK in 8ms (Views: 7.5ms | Allocations: 2787)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 15:56:28 -0700
+Processing by CharlieController#frank as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/frank.html.erb within layouts/application
+  Rendered charlie/frank.html.erb within layouts/application (Duration: 1.0ms | Allocations: 167)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2567)
+Completed 200 OK in 9ms (Views: 7.3ms | Allocations: 2941)
+
+
+Started GET "/" for ::1 at 2022-06-14 15:56:29 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 2476)
+Completed 200 OK in 8ms (Views: 6.8ms | Allocations: 2794)
+
+
+Started GET "/cubed" for ::1 at 2022-06-14 15:56:41 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/cubed"):
+  
+Started GET "/cubed/3" for ::1 at 2022-06-14 15:56:57 -0700
+Processing by CharlieController#cubed as HTML
+  Parameters: {"number"=>"3"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/cubed.html.erb within layouts/application
+  Rendered charlie/cubed.html.erb within layouts/application (Duration: 1.0ms | Allocations: 140)
+  Rendered layout layouts/application.html.erb (Duration: 8.9ms | Allocations: 2538)
+Completed 200 OK in 11ms (Views: 10.0ms | Allocations: 2924)
+
+
+Started GET "/cubed/3645364536543654365265432" for ::1 at 2022-06-14 15:58:53 -0700
+Processing by CharlieController#cubed as HTML
+  Parameters: {"number"=>"3645364536543654365265432"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/cubed.html.erb within layouts/application
+  Rendered charlie/cubed.html.erb within layouts/application (Duration: 1.6ms | Allocations: 21)
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 2454)
+Completed 200 OK in 11ms (Views: 9.0ms | Allocations: 2785)
+
+
+Started GET "/cubed/9999999999" for ::1 at 2022-06-14 15:59:05 -0700
+Processing by CharlieController#cubed as HTML
+  Parameters: {"number"=>"9999999999"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/cubed.html.erb within layouts/application
+  Rendered charlie/cubed.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 2435)
+Completed 200 OK in 9ms (Views: 7.5ms | Allocations: 2766)
+
+
+Started GET "/evenly/4/2" for ::1 at 2022-06-14 16:05:48 -0700
+Processing by CharlieController#evenly as HTML
+  Parameters: {"num1"=>"4", "num2"=>"2"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/evenly.html.erb within layouts/application
+  Rendered charlie/evenly.html.erb within layouts/application (Duration: 0.8ms | Allocations: 147)
+  Rendered layout layouts/application.html.erb (Duration: 23.3ms | Allocations: 14232)
+Completed 200 OK in 27ms (Views: 25.3ms | Allocations: 15302)
+
+
+Started GET "/" for ::1 at 2022-06-14 16:06:15 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 213)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 2622)
+Completed 200 OK in 10ms (Views: 8.5ms | Allocations: 2993)
+
+
+Started GET "/" for ::1 at 2022-06-14 16:06:17 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 2462)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 2778)
+
+
+Started GET "/frank" for ::1 at 2022-06-14 16:06:55 -0700
+Processing by CharlieController#frank as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/frank.html.erb within layouts/application
+  Rendered charlie/frank.html.erb within layouts/application (Duration: 1.6ms | Allocations: 165)
+  Rendered layout layouts/application.html.erb (Duration: 8.6ms | Allocations: 2586)
+Completed 200 OK in 12ms (Views: 9.7ms | Allocations: 2960)
+
+
+Started GET "/" for ::1 at 2022-06-14 16:06:57 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 2470)
+Completed 200 OK in 7ms (Views: 6.2ms | Allocations: 2788)
+
+
+Started GET "/mary" for ::1 at 2022-06-14 16:06:58 -0700
+Processing by CharlieController#mary as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/mary.html.erb within layouts/application
+  Rendered charlie/mary.html.erb within layouts/application (Duration: 1.0ms | Allocations: 165)
+  Rendered layout layouts/application.html.erb (Duration: 7.3ms | Allocations: 2587)
+Completed 200 OK in 9ms (Views: 8.3ms | Allocations: 2962)
+
+
+Started GET "/" for ::1 at 2022-06-14 16:06:59 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 54)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 2470)
+Completed 200 OK in 9ms (Views: 7.7ms | Allocations: 2788)
+
+
+Started GET "/" for ::1 at 2022-06-14 16:13:01 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:39: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:39: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:39: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:39: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:13:31 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:13:32 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:13:39 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:13:40 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:13:40 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:13:41 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:38: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:14:26 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 219)
+  Rendered layout layouts/application.html.erb (Duration: 18.5ms | Allocations: 14308)
+Completed 200 OK in 23ms (Views: 21.1ms | Allocations: 15319)
+
+
+Started GET "/palindrome/mom" for ::1 at 2022-06-14 16:14:46 -0700
+Processing by CharlieController#palindrome as HTML
+  Parameters: {"word"=>"mom"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/palindrome.html.erb within layouts/application
+  Rendered charlie/palindrome.html.erb within layouts/application (Duration: 1.0ms | Allocations: 136)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 2546)
+Completed 200 OK in 10ms (Views: 7.4ms | Allocations: 2934)
+
+
+Started GET "/palindrome/food" for ::1 at 2022-06-14 16:14:56 -0700
+Processing by CharlieController#palindrome as HTML
+  Parameters: {"word"=>"food"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/palindrome.html.erb within layouts/application
+  Rendered charlie/palindrome.html.erb within layouts/application (Duration: 0.2ms | Allocations: 17)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 2423)
+Completed 200 OK in 7ms (Views: 6.1ms | Allocations: 2753)
+
+
+Started GET "/palindrome/mom" for ::1 at 2022-06-14 16:16:18 -0700
+Processing by CharlieController#palindrome as HTML
+  Parameters: {"word"=>"mom"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/palindrome.html.erb within layouts/application
+  Rendered charlie/palindrome.html.erb within layouts/application (Duration: 0.6ms | Allocations: 147)
+  Rendered layout layouts/application.html.erb (Duration: 19.2ms | Allocations: 14236)
+Completed 200 OK in 23ms (Views: 21.5ms | Allocations: 15309)
+
+
+Started GET "/palindrome/nic" for ::1 at 2022-06-14 16:16:57 -0700
+Processing by CharlieController#palindrome as HTML
+  Parameters: {"word"=>"nic"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/palindrome.html.erb within layouts/application
+  Rendered charlie/palindrome.html.erb within layouts/application (Duration: 0.1ms | Allocations: 19)
+  Rendered layout layouts/application.html.erb (Duration: 25.6ms | Allocations: 13801)
+Completed 200 OK in 30ms (Views: 29.2ms | Allocations: 14582)
+
+
+Started GET "/palindrome/nic" for ::1 at 2022-06-14 16:25:01 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:25:07 -0700
+  
+SyntaxError (/Users/learnacademy/Desktop/charlie_app/app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/charlie_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for ::1 at 2022-06-14 16:25:24 -0700
+Processing by CharlieController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/home.html.erb within layouts/application
+  Rendered charlie/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 220)
+  Rendered layout layouts/application.html.erb (Duration: 19.5ms | Allocations: 14317)
+Completed 200 OK in 25ms (Views: 22.9ms | Allocations: 15329)
+
+
+Started GET "/home" for ::1 at 2022-06-14 16:25:42 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+Started GET "/madlib/mary/ate/hungry/quickly" for ::1 at 2022-06-14 16:27:11 -0700
+Processing by CharlieController#madlib as HTML
+  Parameters: {"noun"=>"mary", "verb"=>"ate", "adjective"=>"hungry", "adverb"=>"quickly"}
+  Rendering layout layouts/application.html.erb
+  Rendering charlie/madlib.html.erb within layouts/application
+  Rendered charlie/madlib.html.erb within layouts/application (Duration: 1.4ms | Allocations: 138)
+  Rendered layout layouts/application.html.erb (Duration: 11.9ms | Allocations: 2555)
+Completed 200 OK in 15ms (Views: 13.0ms | Allocations: 2939)
+
+
